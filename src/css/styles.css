@@ -30,3 +30,12 @@ ul {
 img {
   margin-right: 10px;
 }
+h1,
+h2 {
+  font-size: 65px;
+  text-align: center;
+}
+.panel,
+.timestamp {
+  text-align: center;
+}
